@@ -1,0 +1,119 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "What's the capital of Venezuela",
+            "choices": [
+                {
+                    "id": "a",
+                    "text": "Caracas"
+                },
+                {
+                    "id": "b",
+                    "text": "Valencia"
+                },
+                {
+                    "id": "c",
+                    "text": "Maracaibo"
+                },
+                {
+                    "id": "d",
+                    "text": "Barquisimeto"
+                }
+            ],
+            "answer": "a"
+        },
+        {
+            "id": 2,
+            "text": "Who is the CEO of Apple?",
+            "choices": [
+                {
+                    "id": "a",
+                    "text": "John Snow"
+                },
+                {
+                    "id": "b",
+                    "text": "Dan Martelinni"
+                },
+                {
+                    "id": "c",
+                    "text": "Bill Gates"
+                },
+                {
+                    "id": "d",
+                    "text": "Tim Cook"
+                }
+            ],
+            "answer": "d"
+        },
+        {
+            "id": 3,
+            "text": "Which is the parent company of Google?",
+            "choices": [
+                {
+                    "id": "a",
+                    "text": "Microsoft"
+                },
+                {
+                    "id": "b",
+                    "text": "GoggleCorp"
+                },
+                {
+                    "id": "c",
+                    "text": "Alphabet"
+                },
+                {
+                    "id": "d",
+                    "text": "Globalnet"
+                }
+            ],
+            "answer": "c"
+        },
+        {
+            "id": 4,
+            "text": "What is the JS Library invented by Facebook?",
+            "choices": [
+                {
+                    "id": "a",
+                    "text": "AngularJS"
+                },
+                {
+                    "id": "b",
+                    "text": "Angular 8"
+                },
+                {
+                    "id": "c",
+                    "text": "ReactJS"
+                },
+                {
+                    "id": "d",
+                    "text": "VueJS"
+                }
+            ],
+            "answer": "c"
+        },
+        {
+            "id": 5,
+            "text": "Next NFL MVP?",
+            "choices": [
+                {
+                    "id": "a",
+                    "text": "Pat Mahomes"
+                },
+                {
+                    "id": "b",
+                    "text": "Lamar Jackson"
+                },
+                {
+                    "id": "c",
+                    "text": "Josh Allen"
+                },
+                {
+                    "id": "d",
+                    "text": "Aaron Rodgers"
+                }
+            ],
+            "answer": "a"
+        }
+    ]
+}

@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.question-wrapper{
+  margin:0;
+  padding: 0;
+  list-style: none;
+}
+
+.question {
+  padding: 20px 40px 30px;
+  margin:0 0 20px 0;
+  border-radius:5px;
+  background-color: #F0F0F0;
+}
+
+.question header{
+  margin:10px 0 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: 000;
+}
+
+.question .choice{
+  padding: 10px 20px;
+  margin:0 0 5px 0;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.question .choice label{
+  margin: 0 0 0 15px;
+}
+
+.question footer{
+  margin:20px 0 0 0;
+}
+
+.final-score {
+  padding: 20px 40px 30px;
+  margin:0 0 20px 0;
+  border-radius:5px;
+  background-color: #F0F0F0;
+}
+
+.live-score {
+  padding: 20px 40px 30px;
+  margin:0 0 20px 0;
+  border-radius:5px;
+  background-color: #F0F0F0;
+}
+
+.live-score div{
+  overflow: hidden;
+}
+
+.live-score div p{
+  margin:0;
+}
